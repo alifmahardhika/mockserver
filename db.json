@@ -5,15 +5,7 @@
         {
             "username": "user1",
             "role": "PUSTAKAWAN"
-        },
-        {
-            "username": "user2",
-            "role": "PUSTAKAWAN"
-        },
-        {
-            "username": "user3",
-            "role": "PUSTAKAWAN"
         }
-
     ]
 }
+
