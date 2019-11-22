@@ -1,11 +1,7 @@
 {
-    "status": 200,
-    "message": "success",
-    "result": [
-        {
-            "username": "user1",
-            "role": "PUSTAKAWAN"
-        }
-    ]
+    "result": {
+        "jumlah": 5
+    },
+    "messages": "success",
+    "status": "200"
 }
-
